@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Saladesport
+build_property.RootNamespace = Saladesport
+build_property.ProjectDir = C:\Users\Dima\source\repos\Saladesport\Saladesport\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Dima\source\repos\Saladesport\Saladesport
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Abonaments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvbmFtZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Abonaments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvbmFtZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Abonaments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvbmFtZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Abonaments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvbmFtZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Abonaments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvbmFtZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Equipments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBtZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Equipments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBtZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Equipments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBtZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Equipments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBtZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Equipments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBtZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Filiales/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsaWFsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Filiales/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsaWFsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Filiales/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsaWFsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Filiales/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsaWFsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Filiales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsaWFsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Snacks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU25hY2tzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Snacks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU25hY2tzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Snacks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU25hY2tzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Snacks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU25hY2tzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Snacks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU25hY2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Visitators/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhdG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Visitators/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhdG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Visitators/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhdG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Visitators/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhdG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Visitators/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhdG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dima/source/repos/Saladesport/Saladesport/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ibkodtr4jq
